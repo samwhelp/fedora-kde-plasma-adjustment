@@ -20,7 +20,9 @@ fcitx5_config_run_post () {
 
 	#fcitx5_service_start
 
-	im_config_apply_fcitx5
+	#im_config_apply_fcitx5
+
+	imsettings_switch_apply_fcitx5
 
 
 	return 0
@@ -45,6 +47,19 @@ fcitx5_service_start () {
 im_config_apply_fcitx5 () {
 
 	if im-config -n fcitx5; then
+		return 0
+	fi
+
+
+	return 0
+
+}
+
+
+
+imsettings_switch_apply_fcitx5 () {
+
+	if imsettings-switch fcitx5; then
 		return 0
 	fi
 
