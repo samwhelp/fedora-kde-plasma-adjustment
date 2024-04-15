@@ -1,14 +1,11 @@
 
+
+
 # Fcitx5
 
 
 ## Config File Path
 
-### im-config
-
-| Config File Path |
-| --- |
-| [~/.xinputrc](./asset/overlay/etc/skel/.xinputrc) |
 
 ### fcitx5
 
@@ -22,20 +19,31 @@
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
-| [im-config](https://packages.ubuntu.com/noble/im-config) |
-| [fcitx5](https://packages.ubuntu.com/noble/fcitx5) |
-| [fcitx5-table-boshiamy](https://packages.ubuntu.com/noble/fcitx5-table-boshiamy) |
-| [fcitx5-chinese-addons](https://packages.ubuntu.com/noble/fcitx5-chinese-addons) |
-| [fcitx5-config-qt](https://packages.ubuntu.com/noble/fcitx5-config-qt) |
-| [fcitx5-frontend-gtk2](https://packages.ubuntu.com/noble/fcitx5-frontend-gtk2) |
-| [fcitx5-frontend-gtk3](https://packages.ubuntu.com/noble/fcitx5-frontend-gtk3) |
-| [fcitx5-frontend-gtk4](https://packages.ubuntu.com/noble/fcitx5-frontend-gtk4) |
-| [fcitx5-frontend-qt5](https://packages.ubuntu.com/noble/fcitx5-frontend-qt5) |
-| [fcitx5-frontend-qt6](https://packages.ubuntu.com/noble/fcitx5-frontend-qt6) |
+| [imsettings](https://src.fedoraproject.org/rpms/imsettings) |
+
+
+| Fedora Package |
+| --- |
+| [fcitx5](https://src.fedoraproject.org/rpms/fcitx5) |
+| [fcitx5-configtool](https://src.fedoraproject.org/rpms/fcitx5-configtool) |
+
+
+| Fedora Package |
+| --- |
+| [fcitx5-gtk2](https://src.fedoraproject.org/rpms/fcitx5-gtk2) |
+| [fcitx5-gtk3](https://src.fedoraproject.org/rpms/fcitx5-gtk3) |
+| [fcitx5-gtk4](https://src.fedoraproject.org/rpms/fcitx5-gtk4) |
+| [fcitx5-qt](https://src.fedoraproject.org/rpms/fcitx5-qt) |
+| [fcitx5-qt6](https://src.fedoraproject.org/rpms/fcitx5-qt6) |
+
+
+| Fedora Package |
+| --- |
+| [fcitx5-chewing](https://src.fedoraproject.org/rpms/fcitx5-chewing) |
 
 
 
