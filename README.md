@@ -11,17 +11,17 @@
 
 ## Subject
 
-* [Fedora Kde Plasma Adjustment](#fedora-kde-plasma-adjustment)
+* [Adjustment](#adjustment)
 * [Link](#link)
 
 
 
 
-## Fedora Kde Plasma Adjustment
+## Adjustment
 
-| Link | GitHub |
-| ---- | ------ |
-| [Fedora Kde Plasma Adjustment](https://samwhelp.github.io/fedora-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-kde-plasma-adjustment) |
+| Adjustment |
+| -------- |
+| [Fedora Kde Plasma](https://github.com/samwhelp/fedora-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
 
 
 
