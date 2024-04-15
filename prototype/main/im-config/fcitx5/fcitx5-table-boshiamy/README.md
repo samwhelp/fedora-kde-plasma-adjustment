@@ -46,6 +46,14 @@
 | [fcitx5-chewing](https://src.fedoraproject.org/rpms/fcitx5-chewing) |
 
 
+| Fedora Package |
+| --- |
+| [fcitx5-chinese-addons](https://src.fedoraproject.org/rpms/fcitx5-chinese-addons) |
+| [fcitx5-chinese-addons-data](https://src.fedoraproject.org/rpms/fcitx5-chinese-addons-data) |
+| [fcitx5-table-extra](https://src.fedoraproject.org/rpms/fcitx5-table-extra) |
+| [fcitx5-table-other](https://src.fedoraproject.org/rpms/fcitx5-table-other) |
+
+
 
 
 ## Usage
