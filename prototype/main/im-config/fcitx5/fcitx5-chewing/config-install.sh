@@ -9,7 +9,7 @@ set -e
 
 fcitx5_config_run_pre () {
 
-	#fcitx5_service_stop
+	fcitx5_service_stop
 
 
 	return 0
@@ -18,7 +18,7 @@ fcitx5_config_run_pre () {
 
 fcitx5_config_run_post () {
 
-	#fcitx5_service_start
+	fcitx5_service_start
 
 	#im_config_apply_fcitx5
 
@@ -30,6 +30,10 @@ fcitx5_config_run_post () {
 }
 
 fcitx5_service_stop () {
+
+	if killall -9 fcitx5; then
+		return 0
+	fi
 
 
 	return 0
