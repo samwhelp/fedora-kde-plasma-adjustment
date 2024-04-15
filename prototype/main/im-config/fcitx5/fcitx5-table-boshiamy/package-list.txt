@@ -45,11 +45,11 @@ fcitx5-chewing
 ## ## Package / fcitx5 / fcitx5-table
 ##
 
-#fcitx5-chinese-addons
+fcitx5-chinese-addons
 #fcitx5-chinese-addons-data
 
 
-#fcitx5-table-extra
+fcitx5-table-extra
 #fcitx5-table-other
 
 
