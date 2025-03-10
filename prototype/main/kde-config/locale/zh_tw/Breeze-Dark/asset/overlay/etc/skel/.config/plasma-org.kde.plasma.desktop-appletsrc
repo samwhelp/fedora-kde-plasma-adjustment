@@ -80,6 +80,7 @@ favorites=applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop
 favoritesDisplay=1
 favoritesPortedToKAstats=false
 icon=start-here
+switchCategoryOnHover=true
 
 [Containments][2][Applets][3][Configuration][Shortcuts]
 global=Alt+F1
