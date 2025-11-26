@@ -16,17 +16,18 @@
 
 ## Subject
 
-* [Adjustment](#adjustment)
+* [Script](#script)
 * [Link](#link)
 
 
 
 
-## Adjustment
+## Script
 
-| Adjustment |
-| -------- |
-| [Fedora Kde Plasma](https://github.com/samwhelp/fedora-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
+| Script |
+| ------ |
+| [Fedora Kde Plasma](https://github.com/samwhelp/fedora-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Main) |
+| [Tool Config](https://github.com/samwhelp/fedora-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
@@ -42,3 +43,10 @@
 | [Kde Plasma Adjustment](https://samwhelp.github.io/kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/kde-plasma-adjustment) |
 | [Kde Neon Adjustment](https://samwhelp.github.io/kde-neon-adjustment/) | [GitHub](https://github.com/samwhelp/kde-neon-adjustment) |
 | [Kubuntu Adjustment](https://samwhelp.github.io/kubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/kubuntu-adjustment) |
+
+
+
+
+## Samwhelp
+
+* [GitHub](https://github.com/samwhelp)
